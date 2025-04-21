@@ -10,6 +10,9 @@
 ### 1. 🐍 Python (Basics)
 - Introduction to Python programming
 - Simple syntax, print statements, variables, Keywords
+- Great for collaboration and learning
+### 🔗 Try it here:
+[Open Python Notebook in Google Colab](https://colab.research.google.com/drive/1dKleVAMpL3sCxELSSnv2ys1WizHRK25N?usp=sharing)
 
 ```python
 print("Hello, Python!")
@@ -17,10 +20,6 @@ print("Hello, Python!")
 Write and run Python code in the browser
 
 No installation required
-
-Great for collaboration and learning
-### 🔗 Try it here:
-[Open Python Notebook in Google Colab](https://colab.research.google.com/drive/1dKleVAMpL3sCxELSSnv2ys1WizHRK25N?usp=sharing)
 
 3. 🧠 Difference Between CPU & GPU
 🟦 CPU (Central Processing Unit)
